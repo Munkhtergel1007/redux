@@ -1,0 +1,6 @@
+export const GET_USERS_REQ = "GET_USERS_REQ";
+export const GET_USERS_RES = "GET_USERS_RES";
+export const GET_USERS_ERROR = "GET_USERS_ERROR";
+export const LOGIN_USERS_REQ = "LOGIN_USERS_REQ";
+export const LOGIN_USERS_RES = "LOGIN_USERS_RES";
+export const LOGIN_USERS_ERROR = "LOGIN_USERS_ERROR";
